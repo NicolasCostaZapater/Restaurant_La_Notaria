@@ -1,0 +1,27 @@
+.our-team{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.our-team .container--flex{
+align-items: flex-start;
+}
+.our-team__title{
+    color: white ;
+    font-weight: bold;
+    font-size: 1.9em;
+    margin-bottom: 10px;
+    font-family: 'Pacifico', cursive;    
+}
+.our-team__img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin: auto;
+}
+.our_team__txt{
+font-size: 1.2em;
+text-align: center;
+font-weight: 20;
+padding: 10px;
+}
